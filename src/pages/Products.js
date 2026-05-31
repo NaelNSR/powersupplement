@@ -1,6 +1,6 @@
 function Products() {
   return (
-    <div>
+    <div className="products-page">   {/* ← added className here */}
       <header>
         <nav>
           <h1>Power Supplements</h1>
