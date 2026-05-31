@@ -30,13 +30,6 @@ Users can browse products, learn about the company, and contact support.
 ![Products Page](./public/screenshots/Screenshot%20Products.png)
 ![About Us Page](./public/screenshots/Screenshot%20About.png)
 ![Contact Page](./public/screenshots/Screenshot%20Contact.png)
-### Desktop View
-| Home | Products | About | Contact |
-|------|----------|-------|---------|
-| (add screenshot) | (add screenshot) | (add screenshot) | (add screenshot) |
-
-### Mobile View
-(Add mobile screenshots here)
 
 ## 🧠 What I Learned
 - Building a multi‑page React app with routing
@@ -44,4 +37,4 @@ Users can browse products, learn about the company, and contact support.
 - Deploying to Vercel and using Git/GitHub
 
 ## 📝 Author
-Your Name – [GitHub Profile](https://github.com/NaelNSR)
+Nail Nasr – (https://github.com/NaelNSR)
